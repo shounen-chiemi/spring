@@ -1,0 +1,15 @@
+#menu{
+	width:960px;
+	margin:0 auto;
+}
+header{
+	position:relative;
+        display : flex;
+}
+.menu{
+	position:absolute;
+	top:0px;
+	right:0px;
+        display: flex;
+}
+.menu > a {text-decoration: none;margin-right: 10px;margin-top: 5px;}
